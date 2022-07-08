@@ -1,2 +1,2 @@
-# assessment22
+# assessment21
 あなたのいいところ診断
