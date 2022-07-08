@@ -59,11 +59,11 @@ function clickedButtonForAssessment() {
   tweetDivided.appendChild(script);
 }
 
-assessmentButton.onclick = clickedButtonForAssessment;
+assessmentButton.onclick = clickedButtonForAssessment; // イベントハンドラーに、関数を設定
 
 
-function hogehoge() { return 'hello '}; // hogehoge関数の定義
-assessmentButton.onclick = hogehoge // イベントハンドラーに、関数を設定
+// function hogehoge() { return 'hello '}; // hogehoge関数の定義
+// assessmentButton.onclick = hogehoge // イベントハンドラーに、関数を設定
 
 userNameInput.onkeydown = event => {
   console.log({ event });
