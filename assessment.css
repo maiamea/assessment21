@@ -1,12 +1,12 @@
 body {
   background-color: #eb8f04d0;
-  color: #fdffff;
-  width: 500px;
+  /* color: #fdffff; */
+  /* width: 500px;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: auto; */
 }
 
-button {
+/* button {
   padding: 5px 20px;
   background-color: #337ab7;
   border-style: none;
@@ -20,4 +20,4 @@ input {
 
 h3 {
   text-align: center;
-}
+} */
