@@ -46,6 +46,7 @@ function clickedButtonForAssessment() {
 
   const img = document.createElement('img');
   img.setAttribute('src', 'maiamea-logo.png');
+  img.setAttribute('class', 'img-fluid'); // 画像のレスポンシブ対応
   bodyDivided.appendChild(img);
 
   // resultDivided に Bootstrap のスタイルを適用する
